@@ -1,6 +1,0 @@
-as.POSIXct(Sys.Date(), format = "%m/%d/%y")
-
-as.Date.POSIXct(Sys.time(), format = 
-
-format(Sys.time(), "%H:%M:%S")
-                
